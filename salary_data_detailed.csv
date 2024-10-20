@@ -1,0 +1,129 @@
+Industry,Gender,Job Title,Years of Experience,Location,Salary
+Tech,Male,Software Engineer,5,Bangalore,65000
+Finance,Female,Analyst,3,Mumbai,48000
+Healthcare,Female,Nurse,7,Delhi,52000
+Education,Male,Teacher,10,Hyderabad,43000
+Manufacturing,Male,Technician,8,Pune,59000
+Finance,Female,Manager,6,Chennai,53000
+Healthcare,Male,Doctor,9,Kolkata,62000
+Tech,Female,Data Scientist,4,Gurgaon,67000
+Education,Female,Principal,15,Lucknow,41000
+Manufacturing,Female,Engineer,12,Ahmedabad,45000
+Tech,Male,Developer,6,Coimbatore,60000
+Finance,Male,Trader,5,Jaipur,47000
+Healthcare,Female,Pharmacist,8,Surat,50000
+Education,Male,Professor,12,Bhopal,39000
+Manufacturing,Female,Supervisor,10,Vadodara,46000
+Finance,Male,Consultant,7,Patna,56000
+Healthcare,Male,Surgeon,10,Indore,58000
+Tech,Female,Web Developer,3,Bhubaneswar,71000
+Education,Female,Counselor,7,Visakhapatnam,42000
+Manufacturing,Male,Operator,8,Ghaziabad,62000
+Tech,Female,AI Specialist,5,Pune,68000
+Finance,Male,Accountant,3,Chandigarh,49000
+Healthcare,Female,Therapist,8,Ludhiana,51000
+Education,Male,Dean,20,Nashik,55000
+Manufacturing,Female,Mechanic,6,Nagpur,44000
+Tech,Male,System Architect,12,Kanpur,73000
+Finance,Female,Investor,5,Bikaner,52000
+Healthcare,Male,Radiologist,10,Agra,60000
+Tech,Female,Network Engineer,4,Udaipur,68000
+Education,Female,Lecturer,9,Hubli,40000
+Manufacturing,Male,Fitter,7,Ranchi,58000
+Tech,Male,Security Engineer,8,Varanasi,70000
+Finance,Female,Auditor,4,Guwahati,53000
+Healthcare,Female,Lab Technician,6,Amritsar,49000
+Education,Male,Assistant Professor,5,Allahabad,42000
+Manufacturing,Female,Welder,10,Gwalior,47000
+Tech,Female,UX Designer,3,Mysore,67000
+Finance,Male,Loan Officer,7,Jabalpur,50000
+Healthcare,Male,Cardiologist,11,Thane,62000
+Education,Female,Coordinator,6,Jodhpur,43000
+Manufacturing,Male,Plant Manager,9,Kota,55000
+Tech,Female,Database Administrator,8,Shimla,69000
+Finance,Female,Credit Analyst,5,Agartala,48000
+Healthcare,Female,Dietitian,7,Raipur,51000
+Education,Male,Headmaster,14,Dehradun,54000
+Manufacturing,Female,CNC Operator,8,Jammu,45000
+Tech,Male,DevOps Engineer,6,Shillong,71000
+Finance,Male,Financial Planner,9,Siliguri,57000
+Healthcare,Female,Occupational Therapist,10,Tirupati,52000
+Education,Female,Librarian,12,Ujjain,41000
+Manufacturing,Male,Quality Inspector,5,Warangal,56000
+Tech,Female,IT Support Specialist,4,Belgaum,63000
+Finance,Female,Treasurer,8,Vellore,46000
+Healthcare,Male,Anesthesiologist,11,Nanded,60000
+Education,Female,Special Education Teacher,9,Thoothukudi,42000
+Manufacturing,Female,Electrician,7,Bhavnagar,48000
+Tech,Male,Mobile App Developer,4,Gulbarga,68000
+Finance,Male,Wealth Manager,6,Kakinada,50000
+Healthcare,Female,Speech Therapist,9,Karimnagar,47000
+Education,Male,Music Teacher,10,Anantapur,39000
+Manufacturing,Female,Assembler,8,Arrah,44000
+Tech,Female,Software Tester,5,Secunderabad,66000
+Finance,Female,Economist,6,Rajahmundry,53000
+Healthcare,Male,General Practitioner,7,Eluru,57000
+Education,Female,Art Teacher,8,Coimbatore,41000
+Manufacturing,Male,Production Manager,9,Kollam,62000
+Tech,Female,Technical Writer,4,Moradabad,62000
+Finance,Female,Cost Estimator,5,Rohtak,47000
+Healthcare,Female,Genetic Counselor,10,Nagpur,51000
+Education,Male,Science Teacher,7,Solapur,43000
+Manufacturing,Female,Lathe Operator,5,Saharsa,44000
+Tech,Male,Security Analyst,6,Kolhapur,69000
+Finance,Male,Personal Banker,8,Nandyal,52000
+Healthcare,Female,Optometrist,9,Guntur,48000
+Education,Female,Math Teacher,12,Alwar,42000
+Manufacturing,Male,Machinist,6,Hindupur,58000
+Tech,Female,System Analyst,5,Bijapur,70000
+Finance,Female,Investment Banker,7,Bidhannagar,55000
+Healthcare,Male,Pediatrician,8,Bardhaman,60000
+Education,Male,Physical Education Teacher,11,Purnia,39000
+Manufacturing,Female,Inventory Manager,9,Amaravati,46000
+Tech,Female,Cybersecurity Specialist,4,Nellore,68000
+Finance,Male,Risk Manager,10,Madanapalle,50000
+Healthcare,Female,Clinical Psychologist,9,Chittoor,54000
+Education,Female,Vice Principal,13,Narasaraopet,41000
+Manufacturing,Male,Toolmaker,6,Tenali,47000
+Tech,Male,Web Developer,5,Tadipatri,65000
+Finance,Female,Underwriter,6,Proddatur,49000
+Healthcare,Female,Veterinarian,8,Kadapa,52000
+Education,Male,History Teacher,7,Markapur,42000
+Manufacturing,Female,Boiler Operator,9,Madanapalle,45000
+Tech,Female,Full Stack Developer,4,Machilipatnam,64000
+Finance,Male,Branch Manager,8,Hyderabad,53000
+Healthcare,Male,Neurosurgeon,11,Rajahmundry,63000
+Education,Female,Computer Teacher,6,Eluru,40000
+Manufacturing,Male,Field Engineer,7,Srikakulam,56000
+Tech,Female,Cloud Engineer,5,Anantapur,72000
+Finance,Female,Compliance Officer,4,Kurnool,47000
+Healthcare,Female,Chiropractor,10,Bhimavaram,53000
+Education,Male,Chemistry Teacher,12,Nandyal,39000
+Manufacturing,Female,Fabricator,6,Ongole,46000
+Tech,Male,Data Analyst,7,Adoni,61000
+Finance,Female,Financial Advisor,5,Nellore,49000
+Healthcare,Female,Midwife,8,Chirala,47000
+Education,Female,Geography Teacher,9,Tirupati,41000
+Manufacturing,Male,Industrial Designer,8,Bangalore,58000
+Tech,Female,Game Developer,3,Mumbai,71000
+Finance,Male,Stockbroker,6,Delhi,46000
+Healthcare,Female,Dermatologist,10,Hyderabad,60000
+Education,Male,English Teacher,5,Pune,43000
+Manufacturing,Female,Logistics Coordinator,7,Chennai,44000
+Tech,Female,Tech Lead,4,Kolkata,67000
+Finance,Female,Portfolio Manager,8,Gurgaon,52000
+Healthcare,Male,Pathologist,11,Lucknow,59000
+Education,Male,Math Teacher,10,Ahmedabad,42000
+Manufacturing,Male,Production Planner,6,Coimbatore,57000
+Tech,Female,SEO Specialist,5,Jaipur,68000
+Finance,Male,Actuary,7,Surat,51000
+Healthcare,Female,Psychiatrist,9,Bhopal,53000
+Education,Female,Physics Teacher,12,Vadodara,40000
+Manufacturing,Male,Warehouse Manager,8,Patna,56000
+Tech,Female,Robotics Engineer,6,Indore,69000
+Finance,Female,Business Analyst,5,Bhubaneswar,47000
+Healthcare,Female,Obstetrician,11,Visakhapatnam,60000
+Education,Female,Biology Teacher,9,Ghaziabad,41000
+Manufacturing,Male,Equipment Operator,5,Gurgaon,58000
+Tech,Female,IT Consultant,4,Noida,70000
+Finance,Male,Financial Controller,8,Kanpur,49000
